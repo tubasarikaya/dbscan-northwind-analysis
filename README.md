@@ -2,6 +2,10 @@
 
 This project implements a customer segmentation analysis system using the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm. The system analyzes customer, product, supplier, and country data to identify meaningful clusters and outliers.
 
+##Contributors
+
+Tuba SARIKAYA & Gül ERTEN -- GYK1
+
 ## Features
 
 - Customer clustering based on order patterns
