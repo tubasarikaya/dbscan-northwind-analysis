@@ -123,11 +123,11 @@ app/
 │   ├── optimization.py   # Parameter tuning
 │   ├── preprocessing.py  # Data cleaning
 │   └── visualization.py  # K-distance graphs
-├── models/            # Domain-specific clustering
+├── models/               # Domain-specific clustering
 │   ├── customer_clustering.py
 │   ├── product_clustering.py
 │   ├── supplier_clustering.py
 │   └── country_clustering.py
-├── database.py        # Database connection
-└── main.py           # FastAPI application
+├── database.py          # Database connection
+└── main.py              # FastAPI application
 ```
